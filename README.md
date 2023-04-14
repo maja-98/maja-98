@@ -1,9 +1,5 @@
 # 💫 About Me:
-NITC-21
-I'm currently learning full stack
-Python expert
-
-
+National Institute of Technology-2021
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__maj_a__) 
