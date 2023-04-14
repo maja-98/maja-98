@@ -1,5 +1,5 @@
 # 💫 About Me:
-National Institute of Technology-2021
+Full Stack Web Developer. National Institute of Technology, Calicut 2021 Graduate.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__maj_a__) 
